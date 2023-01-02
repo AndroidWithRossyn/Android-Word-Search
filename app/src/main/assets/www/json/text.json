@@ -1,0 +1,31 @@
+{"text":{
+	"EN":{
+		"quickGame":{"@text":["Quick Game"], "@fontId":0},
+		"selectLevel":{"@text":["Select Level"], "@fontId":0},
+		"moreHints":{"@text":["Get More Hints"], "@fontId":0},
+		"moreGames":{"@text":["More Games"], "@fontId":0},
+		"categorySelect":{"@text":["Select Category"], "@fontId":0},
+		"level":{"@text":["Level"], "@fontId":0},
+		"quit":{"@text":["Quit"], "@fontId":0},
+		"restart":{"@text":["Restart"], "@fontId":0},
+		"complete0":{"@text":["Great work!"], "@fontId":0},
+		"complete1":{"@text":["Excellent!"], "@fontId":0},
+		"complete2":{"@text":["Well done!"], "@fontId":0},
+		"complete3":{"@text":["Good job!"], "@fontId":0},
+		"stats0":{"@text":["Games completed:"], "@fontId":0},
+		"stats1":{"@text":["Av. time per game:"], "@fontId":0},
+		"stats2":{"@text":["Playing time:"], "@fontId":0},
+		"stats3":{"@text":["Hints available:"], "@fontId":0},
+		"next":{"@text":["Next"], "@fontId":0},
+		"rank":{"@text":["Rank #"], "@fontId":0},
+		"noTimeSet":{"@text":["No Time Set"], "@fontId":0},
+		"best":{"@text":["Best"], "@fontId":0},
+		"hintHelp0":{"@text":["Use hints if you get stuck!"], "@fontId":0},
+		"hintHelp1":{"@text":["Total hints available:"], "@fontId":0},
+		"hintHelp2":{"@text":["Max hints per game:"], "@fontId":0},
+		"notRanked":{"@text":["Not ranked"], "@fontId":0},
+		"ok":{"@text":["OK"], "@fontId":0}
+		}
+
+	}
+}
